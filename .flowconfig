@@ -1,0 +1,15 @@
+[ignore]
+.*/node_modules/.*
+
+[include]
+
+[libs]
+# https://flow.org/en/docs/config/libs/
+
+[lints]
+
+[options]
+# https://flow.org/en/docs/config/options/
+# all=true
+
+[strict]
